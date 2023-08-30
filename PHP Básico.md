@@ -83,3 +83,21 @@ Se conforman por una "clave" tambien llamado "valor". Para acceder a un valor de
 Nos permite hacer bucles y ejecutar el boque de codigo que contiene, ademas de permitir recorrer arreglos mas sencillo, hasta que la condicion se deje de cumplir.
 ![[Pasted image 20230827202257.png]]
 ##Foreach
+
+Es una estructura de bucle para lograr recorrer arreglos de manera un poco mas sintetizada.
+![[Pasted image 20230830155751.png]]
+##Funciones 
+declarándose con la  palabra *"Function"* a la par del nombre de mi función, puede o no llevar parámetros de invocación, Y estas deben resolver una única tarea.
+![[Pasted image 20230830160306.png]]
+##Clases
+
+una clase se puede tener atributos, funciones o métodos y llevan un método constructor y lo que se hara referencia.
+![[Pasted image 20230830160803.png]]
+##Encapsulacion
+
+	**Consiste en agrupar una líneas de código fuertemente relacionadas, darles un nombre y encapsularlas en un método o una clase**
+
+##Funciones estaticas.
+
+En el contexto de clases y objetos **la palabra reservada static permite definir métodos y propiedades estáticos** (lo que no tiene que ver con el concepto de variables estáticas).
+
